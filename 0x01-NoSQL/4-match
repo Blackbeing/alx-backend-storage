@@ -1,0 +1,2 @@
+//Find documents that match criteria in collection school
+db.school.find({name: "Holberton school"});
